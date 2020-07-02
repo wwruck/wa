@@ -1,0 +1,3422 @@
+{
+  "aa_muts": {},
+  "attr": {
+    "clock_length": 0.001,
+    "country": "China",
+    "country_confidence": {
+      "China": 0.3934962903891654,
+      "Germany": 0.11366865901263322,
+      "Ghana": 0.0286491839989194,
+      "Senegal": 0.3681208922760057
+    },
+    "country_entropy": 1.5267841526289425,
+    "date": "2019-12-15",
+    "div": 0,
+    "num_date": 2019.9542728307126,
+    "num_date_confidence": [
+      2019.4728387600298,
+      2019.9773953084602
+    ],
+    "region": "Africa",
+    "region_confidence": {
+      "Africa": 0.4961913977556138,
+      "Asia": 0.18750292035600555,
+      "Europe": 0.30555495218231543,
+      "South America": 0.005632709920116902
+    },
+    "region_entropy": 1.080044286759893
+  },
+  "branch_length": 0.001,
+  "children": [
+    {
+      "aa_muts": {},
+      "attr": {
+        "clock_length": 1.3335514574347874e-05,
+        "country": "China",
+        "country_confidence": {
+          "China": 0.7142518559401295,
+          "Ghana": 0.0037462972402001827,
+          "Senegal": 0.2805558422960364
+        },
+        "country_entropy": 0.6293066398571038,
+        "date": "2019-12-21",
+        "div": 3.046792529384907e-05,
+        "num_date": 2019.9704133316545,
+        "num_date_confidence": [
+          2019.9562307870106,
+          2019.9819457804824
+        ],
+        "region": "Africa",
+        "region_confidence": {
+          "Africa": 0.5620970793303557,
+          "Asia": 0.4334108987461087,
+          "Europe": 0.004246233652352565
+        },
+        "region_entropy": 0.7114273616424621
+      },
+      "branch_length": 1.334e-05,
+      "children": [
+        {
+          "aa_muts": {
+            "GU280_gp01": [
+              "G392D",
+              "A876T"
+            ]
+          },
+          "attr": {
+            "accession": "EPI_ISL_420069",
+            "clock_length": 0.00019713728957051143,
+            "country": "Senegal",
+            "country_confidence": {
+              "Senegal": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "2020-03-17",
+            "div": 9.734690694458382e-05,
+            "num_date": 2020.2090163934427,
+            "num_date_confidence": [
+              2020.2090163934427,
+              2020.2090163934427
+            ],
+            "raw_date": "2020-03-17",
+            "region": "Africa",
+            "region_confidence": {
+              "Africa": 1.0
+            },
+            "region_entropy": -1.000088900581841e-12
+          },
+          "branch_length": 0.00019714,
+          "clade": 0,
+          "muts": [
+            "G1440A",
+            "G2891A"
+          ],
+          "strain": "hCoV-19/Senegal/306/2020",
+          "yvalue": 73
+        },
+        {
+          "aa_muts": {
+            "GU280_gp01": [
+              "L2235I",
+              "N3833K"
+            ]
+          },
+          "attr": {
+            "accession": "EPI_ISL_406798",
+            "clock_length": 1.1995125653368403e-05,
+            "country": "China",
+            "country_confidence": {
+              "China": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "2019-12-26",
+            "div": 9.734787589374321e-05,
+            "num_date": 2019.9849315068493,
+            "num_date_confidence": [
+              2019.9849315068493,
+              2019.9849315068493
+            ],
+            "raw_date": "2019-12-26",
+            "region": "Asia",
+            "region_confidence": {
+              "Asia": 1.0
+            },
+            "region_entropy": -1.000088900581841e-12
+          },
+          "branch_length": 1.2e-05,
+          "clade": 1,
+          "muts": [
+            "C6968A",
+            "T11764A"
+          ],
+          "strain": "hCoV-19/Wuhan/WH01/2019",
+          "yvalue": 72
+        },
+        {
+          "aa_muts": {
+            "GU280_gp03": [
+              "G251V"
+            ]
+          },
+          "attr": {
+            "accession": "EPI_ISL_406036",
+            "clock_length": 7.29793853886183e-05,
+            "country": "USA",
+            "country_confidence": {
+              "USA": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "2020-01-22",
+            "div": 9.734039326318471e-05,
+            "num_date": 2020.058743169399,
+            "num_date_confidence": [
+              2020.058743169399,
+              2020.058743169399
+            ],
+            "raw_date": "2020-01-22",
+            "region": "North America",
+            "region_confidence": {
+              "North America": 0.9999999999999999
+            },
+            "region_entropy": -9.99866855976916e-13
+          },
+          "branch_length": 7.298e-05,
+          "clade": 2,
+          "muts": [
+            "C17000T",
+            "G26144T"
+          ],
+          "strain": "hCoV-19/USA/CA2/2020",
+          "yvalue": 71
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "accession": "EPI_ISL_402125",
+            "clock_length": 2.331313136461451e-05,
+            "country": "China",
+            "country_confidence": {
+              "China": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "2019-12-31",
+            "div": 3.0467925293852845e-05,
+            "num_date": 2019.9986301369863,
+            "num_date_confidence": [
+              2019.9986301369863,
+              2019.9986301369863
+            ],
+            "raw_date": "2019-12-31",
+            "region": "Asia",
+            "region_confidence": {
+              "Asia": 1.0
+            },
+            "region_entropy": -1.000088900581841e-12
+          },
+          "branch_length": 2.331e-05,
+          "clade": 3,
+          "muts": [],
+          "strain": "hCoV-19/Wuhan-Hu-1/2019",
+          "yvalue": 70
+        },
+        {
+          "aa_muts": {
+            "GU280_gp01": [
+              "L3606F"
+            ]
+          },
+          "attr": {
+            "clock_length": 6.755867038830976e-05,
+            "country": "China",
+            "country_confidence": {
+              "China": 0.7219586949589801,
+              "Gambia": 0.05393747804085331,
+              "Ghana": 0.04317200212903154,
+              "Senegal": 0.14973480127694896
+            },
+            "country_entropy": 0.9529195362179124,
+            "date": "2020-01-20",
+            "div": 6.390326503403695e-05,
+            "num_date": 2020.05218226355,
+            "num_date_confidence": [
+              2019.9902422360021,
+              2020.0673778788332
+            ],
+            "region": "Africa",
+            "region_confidence": {
+              "Africa": 0.6379003943442287,
+              "Asia": 0.35845310570995353,
+              "Europe": 0.003467271020181574
+            },
+            "region_entropy": 0.6758473156480413
+          },
+          "branch_length": 6.756e-05,
+          "children": [
+            {
+              "aa_muts": {
+                "GU280_gp01": [
+                  "T2016K"
+                ],
+                "GU280_gp10": [
+                  "P13L"
+                ]
+              },
+              "attr": {
+                "accession": "EPI_ISL_428856",
+                "clock_length": 0.0001386082849407755,
+                "country": "Gambia",
+                "country_confidence": {
+                  "Gambia": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2020-03-21",
+                "div": 0.00019766991994946514,
+                "num_date": 2020.2199453551912,
+                "num_date_confidence": [
+                  2020.2199453551912,
+                  2020.2199453551912
+                ],
+                "raw_date": "2020-03-21",
+                "region": "Africa",
+                "region_confidence": {
+                  "Africa": 1.0
+                },
+                "region_entropy": -1.000088900581841e-12
+              },
+              "branch_length": 0.00013861,
+              "clade": 4,
+              "muts": [
+                "C6312A",
+                "C13730T",
+                "C23929T",
+                "C28311T"
+              ],
+              "strain": "hCoV-19/Gambia/GC19-026/2020",
+              "yvalue": 69
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "accession": "EPI_ISL_434569",
+                "clock_length": 1.67077971987137e-05,
+                "country": "China",
+                "country_confidence": {
+                  "China": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2020-01-27",
+                "div": 9.733874966622471e-05,
+                "num_date": 2020.0724043715848,
+                "num_date_confidence": [
+                  2020.0724043715848,
+                  2020.0724043715848
+                ],
+                "raw_date": "2020-01-27",
+                "region": "Asia",
+                "region_confidence": {
+                  "Asia": 1.0
+                },
+                "region_entropy": -1.000088900581841e-12
+              },
+              "branch_length": 1.671e-05,
+              "clade": 5,
+              "muts": [
+                "C8092T"
+              ],
+              "strain": "hCoV-19/HongKong/HKU-908a/2020",
+              "yvalue": 68
+            },
+            {
+              "aa_muts": {
+                "GU280_gp03": [
+                  "G251V"
+                ]
+              },
+              "attr": {
+                "clock_length": 7.063155156651071e-05,
+                "country": "Ghana",
+                "country_confidence": {
+                  "China": 0.14741615124693308,
+                  "Ghana": 0.35786278530374993,
+                  "Nigeria": 0.3327824298944325,
+                  "Senegal": 0.11217722932738369
+                },
+                "country_entropy": 1.5152091931246698,
+                "date": "2020-02-20",
+                "div": 0.00013077577185497573,
+                "num_date": 2020.1376704251218,
+                "num_date_confidence": [
+                  2020.0502226997687,
+                  2020.1757899603688
+                ],
+                "region": "Africa",
+                "region_confidence": {
+                  "Africa": 0.9414820107390179,
+                  "Asia": 0.049096609965527206,
+                  "Europe": 0.008574226477741607
+                },
+                "region_entropy": 0.2521245394383045
+              },
+              "branch_length": 7.063e-05,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "EPI_ISL_422382",
+                    "clock_length": 7.474898269338304e-05,
+                    "country": "Ghana",
+                    "country_confidence": {
+                      "Ghana": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2020-03-24",
+                    "div": 0.00029814578838188477,
+                    "num_date": 2020.2281420765028,
+                    "num_date_confidence": [
+                      2020.2281420765028,
+                      2020.2281420765028
+                    ],
+                    "raw_date": "2020-03-24",
+                    "region": "Africa",
+                    "region_confidence": {
+                      "Africa": 1.0
+                    },
+                    "region_entropy": -1.000088900581841e-12
+                  },
+                  "branch_length": 7.475e-05,
+                  "clade": 6,
+                  "muts": [
+                    "C9223T",
+                    "T17247C",
+                    "A17799G",
+                    "G20560T",
+                    "G29688T"
+                  ],
+                  "strain": "hCoV-19/Ghana/1513_S1/2020",
+                  "yvalue": 67
+                },
+                {
+                  "aa_muts": {
+                    "GU280_gp01": [
+                      "I739V",
+                      "P765S"
+                    ]
+                  },
+                  "attr": {
+                    "clock_length": 5.730924273729258e-05,
+                    "country": "Nigeria",
+                    "country_confidence": {
+                      "Nigeria": 0.9989655315817325
+                    },
+                    "country_entropy": 0.008445911666603014,
+                    "date": "2020-03-16",
+                    "div": 0.00019764834603851523,
+                    "num_date": 2020.2070340691878,
+                    "num_date_confidence": [
+                      2020.190174629362,
+                      2020.23087431694
+                    ],
+                    "region": "Africa",
+                    "region_confidence": {
+                      "Africa": 0.9996633086259701
+                    },
+                    "region_entropy": 0.003157600695759381
+                  },
+                  "branch_length": 5.731e-05,
+                  "children": [
+                    {
+                      "aa_muts": {
+                        "GU280_gp05": [
+                          "C86F"
+                        ]
+                      },
+                      "attr": {
+                        "accession": "EPI_ISL_455412",
+                        "clock_length": 2.872682215449563e-05,
+                        "country": "Nigeria",
+                        "country_confidence": {
+                          "Nigeria": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2020-03-29",
+                        "div": 0.00023108512249733434,
+                        "num_date": 2020.2418032786886,
+                        "num_date_confidence": [
+                          2020.2418032786886,
+                          2020.2418032786886
+                        ],
+                        "raw_date": "2020-03-29",
+                        "region": "Africa",
+                        "region_confidence": {
+                          "Africa": 1.0
+                        },
+                        "region_entropy": -1.000088900581841e-12
+                      },
+                      "branch_length": 2.873e-05,
+                      "clade": 7,
+                      "muts": [
+                        "G26779T"
+                      ],
+                      "strain": "hCoV-19/Nigeria/OG007-CV22/2020",
+                      "yvalue": 66
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "EPI_ISL_422390",
+                        "clock_length": 1.9697156395733926e-05,
+                        "country": "Ghana",
+                        "country_confidence": {
+                          "Ghana": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2020-03-25",
+                        "div": 0.000197648346038519,
+                        "num_date": 2020.23087431694,
+                        "num_date_confidence": [
+                          2020.23087431694,
+                          2020.23087431694
+                        ],
+                        "raw_date": "2020-03-25",
+                        "region": "Africa",
+                        "region_confidence": {
+                          "Africa": 1.0
+                        },
+                        "region_entropy": -1.000088900581841e-12
+                      },
+                      "branch_length": 1.97e-05,
+                      "clade": 8,
+                      "muts": [],
+                      "strain": "hCoV-19/Ghana/2230_S4/2020",
+                      "yvalue": 65
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "EPI_ISL_455430",
+                        "clock_length": 3.775648791306947e-05,
+                        "country": "Nigeria",
+                        "country_confidence": {
+                          "Nigeria": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2020-04-02",
+                        "div": 0.00019764834603851902,
+                        "num_date": 2020.2527322404371,
+                        "num_date_confidence": [
+                          2020.2527322404371,
+                          2020.2527322404371
+                        ],
+                        "raw_date": "2020-04-02",
+                        "region": "Africa",
+                        "region_confidence": {
+                          "Africa": 1.0
+                        },
+                        "region_entropy": -1.000088900581841e-12
+                      },
+                      "branch_length": 3.776e-05,
+                      "clade": 9,
+                      "muts": [],
+                      "strain": "hCoV-19/Nigeria/OY035-CV34/2020",
+                      "yvalue": 64
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "EPI_ISL_455431",
+                        "clock_length": 3.775648791306947e-05,
+                        "country": "Nigeria",
+                        "country_confidence": {
+                          "Nigeria": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2020-04-02",
+                        "div": 0.000197648346038519,
+                        "num_date": 2020.2527322404371,
+                        "num_date_confidence": [
+                          2020.2527322404371,
+                          2020.2527322404371
+                        ],
+                        "raw_date": "2020-04-02",
+                        "region": "Africa",
+                        "region_confidence": {
+                          "Africa": 1.0
+                        },
+                        "region_entropy": -1.000088900581841e-12
+                      },
+                      "branch_length": 3.776e-05,
+                      "clade": 10,
+                      "muts": [],
+                      "strain": "hCoV-19/Nigeria/OY045A-CV35/2020",
+                      "yvalue": 63
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "EPI_ISL_455413",
+                        "clock_length": 2.4211989275020845e-05,
+                        "country": "Nigeria",
+                        "country_confidence": {
+                          "Nigeria": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2020-03-27",
+                        "div": 0.000197648346038519,
+                        "num_date": 2020.2363387978141,
+                        "num_date_confidence": [
+                          2020.2363387978141,
+                          2020.2363387978141
+                        ],
+                        "raw_date": "2020-03-27",
+                        "region": "Africa",
+                        "region_confidence": {
+                          "Africa": 1.0
+                        },
+                        "region_entropy": -1.000088900581841e-12
+                      },
+                      "branch_length": 2.421e-05,
+                      "clade": 11,
+                      "muts": [],
+                      "strain": "hCoV-19/Nigeria/OS016-CV3/2020",
+                      "yvalue": 62
+                    }
+                  ],
+                  "clade": 12,
+                  "muts": [
+                    "A2480G",
+                    "C2558T"
+                  ],
+                  "strain": "NODE_0000007",
+                  "yvalue": 64.0
+                }
+              ],
+              "clade": 13,
+              "muts": [
+                "C14805T",
+                "G26144T"
+              ],
+              "strain": "NODE_0000006",
+              "yvalue": 65.5
+            }
+          ],
+          "clade": 14,
+          "muts": [
+            "G11083T"
+          ],
+          "strain": "NODE_0000004",
+          "yvalue": 67.25
+        },
+        {
+          "aa_muts": {
+            "GU280_gp09": [
+              "L84S"
+            ]
+          },
+          "attr": {
+            "clock_length": 0.00010216456755966584,
+            "country": "Senegal",
+            "country_confidence": {
+              "China": 0.12071867080803267,
+              "Ghana": 0.12833613036950098,
+              "Nigeria": 0.0404561730637606,
+              "Senegal": 0.6917755243998647
+            },
+            "country_entropy": 1.0204086822035021,
+            "date": "2020-02-04",
+            "div": 9.73397886676975e-05,
+            "num_date": 2020.094067150164,
+            "num_date_confidence": [
+              2019.9558999938981,
+              2020.1128525238776
+            ],
+            "region": "Africa",
+            "region_confidence": {
+              "Africa": 0.9210740232376898,
+              "Asia": 0.06700868337266369,
+              "Europe": 0.01089346531907645
+            },
+            "region_entropy": 0.31382771088038813
+          },
+          "branch_length": 0.00010216,
+          "children": [
+            {
+              "aa_muts": {
+                "GU280_gp01": [
+                  "F3071Y"
+                ],
+                "GU280_gp02": [
+                  "I197V"
+                ],
+                "GU280_gp03": [
+                  "G196V"
+                ],
+                "GU280_gp10": [
+                  "S197L"
+                ]
+              },
+              "attr": {
+                "accession": "EPI_ISL_418216",
+                "clock_length": 8.594305625208388e-05,
+                "country": "Senegal",
+                "country_confidence": {
+                  "Senegal": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2020-03-13",
+                "div": 0.0002979929519451323,
+                "num_date": 2020.198087431694,
+                "num_date_confidence": [
+                  2020.198087431694,
+                  2020.198087431694
+                ],
+                "raw_date": "2020-03-13",
+                "region": "Africa",
+                "region_confidence": {
+                  "Africa": 1.0
+                },
+                "region_entropy": -1.000088900581841e-12
+              },
+              "branch_length": 8.594e-05,
+              "clade": 15,
+              "muts": [
+                "T9477A",
+                "C14805T",
+                "A22151G",
+                "G25979T",
+                "C28657T",
+                "C28863T"
+              ],
+              "strain": "hCoV-19/Senegal/136/2020",
+              "yvalue": 61
+            },
+            {
+              "aa_muts": {
+                "GU280_gp10": [
+                  "S202N"
+                ]
+              },
+              "attr": {
+                "clock_length": 3.3989768798964326e-05,
+                "country": "Ghana",
+                "country_confidence": {
+                  "China": 0.019652232639801853,
+                  "Ghana": 0.4674700192581739,
+                  "Nigeria": 0.1444742098999041,
+                  "Senegal": 0.35472651240711756
+                },
+                "country_entropy": 1.1697895810418424,
+                "date": "2020-02-19",
+                "div": 0.0001642130453754957,
+                "num_date": 2020.13520631223,
+                "num_date_confidence": [
+                  2020.0698960989778,
+                  2020.1779813717383
+                ],
+                "region": "Africa",
+                "region_confidence": {
+                  "Africa": 0.9793858686668194,
+                  "Asia": 0.010297549736321306,
+                  "Europe": 0.009747434677111677
+                },
+                "region_entropy": 0.11729901536410503
+              },
+              "branch_length": 3.399e-05,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 3.249123991439073e-05,
+                    "country": "Ghana",
+                    "country_confidence": {
+                      "Ghana": 0.9664008439582005,
+                      "Senegal": 0.03321354735374727
+                    },
+                    "country_entropy": 0.14934550694146903,
+                    "date": "2020-03-04",
+                    "div": 0.00019764970100898303,
+                    "num_date": 2020.174531745494,
+                    "num_date_confidence": [
+                      2020.1206536047332,
+                      2020.1980098186505
+                    ],
+                    "region": "Africa",
+                    "region_confidence": {
+                      "Africa": 0.9987375755077184,
+                      "Europe": 0.0011654988986665395
+                    },
+                    "region_entropy": 0.010048294196310936
+                  },
+                  "branch_length": 3.249e-05,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "EPI_ISL_420078",
+                        "clock_length": 3.5263962616420905e-05,
+                        "country": "Senegal",
+                        "country_confidence": {
+                          "Senegal": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2020-03-20",
+                        "div": 0.00023109073011875976,
+                        "num_date": 2020.217213114754,
+                        "num_date_confidence": [
+                          2020.217213114754,
+                          2020.217213114754
+                        ],
+                        "raw_date": "2020-03-20",
+                        "region": "Africa",
+                        "region_confidence": {
+                          "Africa": 1.0
+                        },
+                        "region_entropy": -1.000088900581841e-12
+                      },
+                      "branch_length": 3.526e-05,
+                      "clade": 16,
+                      "muts": [
+                        "G16853T"
+                      ],
+                      "strain": "hCoV-19/Senegal/620/2020",
+                      "yvalue": 60
+                    },
+                    {
+                      "aa_muts": {
+                        "GU280_gp01": [
+                          "A2745V"
+                        ],
+                        "GU280_gp02": [
+                          "D80Y",
+                          "L176F"
+                        ],
+                        "GU280_gp03": [
+                          "L106F"
+                        ]
+                      },
+                      "attr": {
+                        "accession": "EPI_ISL_422397",
+                        "clock_length": 5.558071057358777e-05,
+                        "country": "Ghana",
+                        "country_confidence": {
+                          "Ghana": 0.9999999999999999
+                        },
+                        "country_entropy": -9.99866855976916e-13,
+                        "date": "2020-03-29",
+                        "div": 0.000364864330940439,
+                        "num_date": 2020.2418032786886,
+                        "num_date_confidence": [
+                          2020.2418032786886,
+                          2020.2418032786886
+                        ],
+                        "raw_date": "2020-03-29",
+                        "region": "Africa",
+                        "region_confidence": {
+                          "Africa": 1.0
+                        },
+                        "region_entropy": -1.000088900581841e-12
+                      },
+                      "branch_length": 5.558e-05,
+                      "clade": 17,
+                      "muts": [
+                        "C745T",
+                        "C8499T",
+                        "G21800T",
+                        "C22088T",
+                        "C25708T"
+                      ],
+                      "strain": "hCoV-19/Ghana/2828_S6/2020",
+                      "yvalue": 59
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "EPI_ISL_422403",
+                        "clock_length": 5.783812701323123e-05,
+                        "country": "Ghana",
+                        "country_confidence": {
+                          "Ghana": 0.9999999999999999
+                        },
+                        "country_entropy": -9.99866855976916e-13,
+                        "date": "2020-03-30",
+                        "div": 0.00023109739343745423,
+                        "num_date": 2020.2445355191257,
+                        "num_date_confidence": [
+                          2020.2445355191257,
+                          2020.2445355191257
+                        ],
+                        "raw_date": "2020-03-30",
+                        "region": "Africa",
+                        "region_confidence": {
+                          "Africa": 1.0
+                        },
+                        "region_entropy": -1.000088900581841e-12
+                      },
+                      "branch_length": 5.784e-05,
+                      "clade": 18,
+                      "muts": [
+                        "C21844T"
+                      ],
+                      "strain": "hCoV-19/Ghana/3177_S12/2020",
+                      "yvalue": 58
+                    },
+                    {
+                      "aa_muts": {
+                        "GU280_gp01": [
+                          "L681F"
+                        ]
+                      },
+                      "attr": {
+                        "clock_length": 2.7672800858291347e-05,
+                        "country": "Ghana",
+                        "country_confidence": {
+                          "Ghana": 0.9954123612531279,
+                          "Senegal": 0.0038939577097256805
+                        },
+                        "country_entropy": 0.03272335498682007,
+                        "date": "2020-03-17",
+                        "div": 0.00023108678031645214,
+                        "num_date": 2020.208025231315,
+                        "num_date_confidence": [
+                          2020.1630900627597,
+                          2020.2262570636221
+                        ],
+                        "region": "Africa",
+                        "region_confidence": {
+                          "Africa": 0.9910777586893375,
+                          "Asia": 0.0012812102486174316,
+                          "Europe": 0.007240009478087922
+                        },
+                        "region_entropy": 0.0565050643041236
+                      },
+                      "branch_length": 2.767e-05,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "EPI_ISL_422387",
+                            "clock_length": 1.887824395653472e-05,
+                            "country": "Ghana",
+                            "country_confidence": {
+                              "Ghana": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2020-03-25",
+                            "div": 0.0002310867803164559,
+                            "num_date": 2020.23087431694,
+                            "num_date_confidence": [
+                              2020.23087431694,
+                              2020.23087431694
+                            ],
+                            "raw_date": "2020-03-25",
+                            "region": "Africa",
+                            "region_confidence": {
+                              "Africa": 0.9999999999999999
+                            },
+                            "region_entropy": -9.99866855976916e-13
+                          },
+                          "branch_length": 1.888e-05,
+                          "clade": 19,
+                          "muts": [],
+                          "strain": "hCoV-19/Ghana/1651_S3/2020",
+                          "yvalue": 57
+                        },
+                        {
+                          "aa_muts": {
+                            "GU280_gp01": [
+                              "A3124V"
+                            ]
+                          },
+                          "attr": {
+                            "accession": "EPI_ISL_422406",
+                            "clock_length": 2.7907909715296422e-05,
+                            "country": "Ghana",
+                            "country_confidence": {
+                              "Ghana": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2020-03-29",
+                            "div": 0.00029799089660701404,
+                            "num_date": 2020.2418032786886,
+                            "num_date_confidence": [
+                              2020.2418032786886,
+                              2020.2418032786886
+                            ],
+                            "raw_date": "2020-03-29",
+                            "region": "Africa",
+                            "region_confidence": {
+                              "Africa": 0.9999999999999999
+                            },
+                            "region_entropy": -9.99866855976916e-13
+                          },
+                          "branch_length": 2.791e-05,
+                          "clade": 20,
+                          "muts": [
+                            "C9636T",
+                            "T14382C"
+                          ],
+                          "strain": "hCoV-19/Ghana/2850_S15/2020",
+                          "yvalue": 56
+                        }
+                      ],
+                      "clade": 21,
+                      "muts": [
+                        "C2306T"
+                      ],
+                      "strain": "NODE_0000018",
+                      "yvalue": 56.5
+                    }
+                  ],
+                  "clade": 22,
+                  "muts": [
+                    "C24370T"
+                  ],
+                  "strain": "NODE_0000015",
+                  "yvalue": 58.25
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 2.057121185803222e-05,
+                    "country": "Nigeria",
+                    "country_confidence": {
+                      "Ghana": 0.2691483364677381,
+                      "Nigeria": 0.49124986511692215,
+                      "Senegal": 0.2389667379394714
+                    },
+                    "country_entropy": 1.0504236830245428,
+                    "date": "2020-02-28",
+                    "div": 0.00019764966101177173,
+                    "num_date": 2020.1601044638924,
+                    "num_date_confidence": [
+                      2020.1174923835206,
+                      2020.2097871769895
+                    ],
+                    "region": "Africa",
+                    "region_confidence": {
+                      "Africa": 0.9989750906573427
+                    },
+                    "region_entropy": 0.008385538551667666
+                  },
+                  "branch_length": 2.057e-05,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 9.233231946621217e-05,
+                        "country": "Nigeria",
+                        "country_confidence": {
+                          "Gambia": 0.024785294473519858,
+                          "Ghana": 0.2030064460821508,
+                          "Nigeria": 0.36705974303667255,
+                          "Senegal": 0.18590269075349147
+                        },
+                        "country_entropy": 1.9333311991343702,
+                        "date": "2020-04-09",
+                        "div": 0.0003657613282915714,
+                        "num_date": 2020.2718579234972,
+                        "num_date_confidence": [
+                          2020.2718579234972,
+                          2020.2718579234972
+                        ],
+                        "raw_date": "2020-04-09",
+                        "region": "Africa",
+                        "region_confidence": {
+                          "Africa": 0.8513600829782754,
+                          "Asia": 0.039223538279496206,
+                          "Europe": 0.06089436421842307,
+                          "North America": 0.024775897460416304
+                        },
+                        "region_entropy": 0.614882250757506
+                      },
+                      "branch_length": 9.233e-05,
+                      "clade": 23,
+                      "muts": [
+                        "T18091G",
+                        "G18180T",
+                        "G18274A",
+                        "T18311A",
+                        "T18392A"
+                      ],
+                      "strain": "hCoV-19/Nigeria/NG02/2020",
+                      "yvalue": 55
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "EPI_ISL_422402",
+                        "clock_length": 6.975815506958974e-05,
+                        "country": "Ghana",
+                        "country_confidence": {
+                          "Ghana": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2020-03-30",
+                        "div": 0.00026453571226071177,
+                        "num_date": 2020.2445355191257,
+                        "num_date_confidence": [
+                          2020.2445355191257,
+                          2020.2445355191257
+                        ],
+                        "raw_date": "2020-03-30",
+                        "region": "Africa",
+                        "region_confidence": {
+                          "Africa": 0.9999999999999999
+                        },
+                        "region_entropy": -9.99866855976916e-13
+                      },
+                      "branch_length": 6.976e-05,
+                      "clade": 24,
+                      "muts": [
+                        "A361G",
+                        "C2062T"
+                      ],
+                      "strain": "hCoV-19/Ghana/3176_S11/2020",
+                      "yvalue": 54
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "EPI_ISL_420077",
+                        "clock_length": 4.718399067277942e-05,
+                        "country": "Senegal",
+                        "country_confidence": {
+                          "Senegal": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2020-03-20",
+                        "div": 0.0002310891895256619,
+                        "num_date": 2020.217213114754,
+                        "num_date_confidence": [
+                          2020.217213114754,
+                          2020.217213114754
+                        ],
+                        "raw_date": "2020-03-20",
+                        "region": "Africa",
+                        "region_confidence": {
+                          "Africa": 0.9999999999999999
+                        },
+                        "region_entropy": -9.99866855976916e-13
+                      },
+                      "branch_length": 4.718e-05,
+                      "clade": 25,
+                      "muts": [
+                        "C29149T"
+                      ],
+                      "strain": "hCoV-19/Senegal/618/2020",
+                      "yvalue": 53
+                    },
+                    {
+                      "aa_muts": {
+                        "GU280_gp01": [
+                          "D1036Y"
+                        ]
+                      },
+                      "attr": {
+                        "accession": "EPI_ISL_455424",
+                        "clock_length": 6.750073862994628e-05,
+                        "country": "Nigeria",
+                        "country_confidence": {
+                          "Nigeria": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2020-03-29",
+                        "div": 0.0002645295228508292,
+                        "num_date": 2020.2418032786886,
+                        "num_date_confidence": [
+                          2020.2418032786886,
+                          2020.2418032786886
+                        ],
+                        "raw_date": "2020-03-29",
+                        "region": "Africa",
+                        "region_confidence": {
+                          "Africa": 0.9999999999999999
+                        },
+                        "region_entropy": -9.99866855976916e-13
+                      },
+                      "branch_length": 6.75e-05,
+                      "clade": 26,
+                      "muts": [
+                        "G3371T",
+                        "T11398C"
+                      ],
+                      "strain": "hCoV-19/Nigeria/OS085-CV14/2020",
+                      "yvalue": 52
+                    },
+                    {
+                      "aa_muts": {
+                        "GU280_gp01": [
+                          "D762G"
+                        ]
+                      },
+                      "attr": {
+                        "clock_length": 6.210695464236492e-05,
+                        "country": "Nigeria",
+                        "country_confidence": {
+                          "Nigeria": 0.9999999986420602
+                        },
+                        "country_entropy": 2.981384087418149e-08,
+                        "date": "2020-03-27",
+                        "div": 0.0003648460098513442,
+                        "num_date": 2020.23527496851,
+                        "num_date_confidence": [
+                          2020.1829346283141,
+                          2020.2418032786886
+                        ],
+                        "region": "Africa",
+                        "region_confidence": {
+                          "Africa": 0.9999926746667723
+                        },
+                        "region_entropy": 9.412618215428258e-05
+                      },
+                      "branch_length": 6.211e-05,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "EPI_ISL_455414",
+                            "clock_length": 5.393783987581364e-06,
+                            "country": "Nigeria",
+                            "country_confidence": {
+                              "Nigeria": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2020-03-29",
+                            "div": 0.000364846009851348,
+                            "num_date": 2020.2418032786886,
+                            "num_date_confidence": [
+                              2020.2418032786886,
+                              2020.2418032786886
+                            ],
+                            "raw_date": "2020-03-29",
+                            "region": "Africa",
+                            "region_confidence": {
+                              "Africa": 1.0
+                            },
+                            "region_entropy": -1.000088900581841e-12
+                          },
+                          "branch_length": 5.39e-06,
+                          "clade": 27,
+                          "muts": [],
+                          "strain": "hCoV-19/Nigeria/OS029-CV4/2020",
+                          "yvalue": 51
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "EPI_ISL_455426",
+                            "clock_length": 5.393783987581364e-06,
+                            "country": "Nigeria",
+                            "country_confidence": {
+                              "Nigeria": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2020-03-29",
+                            "div": 0.000364846009851348,
+                            "num_date": 2020.2418032786886,
+                            "num_date_confidence": [
+                              2020.2418032786886,
+                              2020.2418032786886
+                            ],
+                            "raw_date": "2020-03-29",
+                            "region": "Africa",
+                            "region_confidence": {
+                              "Africa": 1.0
+                            },
+                            "region_entropy": -1.000088900581841e-12
+                          },
+                          "branch_length": 5.39e-06,
+                          "clade": 28,
+                          "muts": [],
+                          "strain": "hCoV-19/Nigeria/OS122-CV18/2020",
+                          "yvalue": 50
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "EPI_ISL_455422",
+                            "clock_length": 5.393783987581364e-06,
+                            "country": "Nigeria",
+                            "country_confidence": {
+                              "Nigeria": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2020-03-29",
+                            "div": 0.000364846009851348,
+                            "num_date": 2020.2418032786886,
+                            "num_date_confidence": [
+                              2020.2418032786886,
+                              2020.2418032786886
+                            ],
+                            "raw_date": "2020-03-29",
+                            "region": "Africa",
+                            "region_confidence": {
+                              "Africa": 1.0
+                            },
+                            "region_entropy": -1.000088900581841e-12
+                          },
+                          "branch_length": 5.39e-06,
+                          "clade": 29,
+                          "muts": [],
+                          "strain": "hCoV-19/Nigeria/OS070-CV11/2020",
+                          "yvalue": 49
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "EPI_ISL_455423",
+                            "clock_length": 5.393783987581364e-06,
+                            "country": "Nigeria",
+                            "country_confidence": {
+                              "Nigeria": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2020-03-29",
+                            "div": 0.000364846009851348,
+                            "num_date": 2020.2418032786886,
+                            "num_date_confidence": [
+                              2020.2418032786886,
+                              2020.2418032786886
+                            ],
+                            "raw_date": "2020-03-29",
+                            "region": "Africa",
+                            "region_confidence": {
+                              "Africa": 1.0
+                            },
+                            "region_entropy": -1.000088900581841e-12
+                          },
+                          "branch_length": 5.39e-06,
+                          "clade": 30,
+                          "muts": [],
+                          "strain": "hCoV-19/Nigeria/OS075-CV12/2020",
+                          "yvalue": 48
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "EPI_ISL_455415",
+                            "clock_length": 5.393783987581364e-06,
+                            "country": "Nigeria",
+                            "country_confidence": {
+                              "Nigeria": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2020-03-29",
+                            "div": 0.000364846009851348,
+                            "num_date": 2020.2418032786886,
+                            "num_date_confidence": [
+                              2020.2418032786886,
+                              2020.2418032786886
+                            ],
+                            "raw_date": "2020-03-29",
+                            "region": "Africa",
+                            "region_confidence": {
+                              "Africa": 1.0
+                            },
+                            "region_entropy": -1.000088900581841e-12
+                          },
+                          "branch_length": 5.39e-06,
+                          "clade": 31,
+                          "muts": [],
+                          "strain": "hCoV-19/Nigeria/OS030-CV5/2020",
+                          "yvalue": 47
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "EPI_ISL_455418",
+                            "clock_length": 5.393783987581364e-06,
+                            "country": "Nigeria",
+                            "country_confidence": {
+                              "Nigeria": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2020-03-29",
+                            "div": 0.000364846009851348,
+                            "num_date": 2020.2418032786886,
+                            "num_date_confidence": [
+                              2020.2418032786886,
+                              2020.2418032786886
+                            ],
+                            "raw_date": "2020-03-29",
+                            "region": "Africa",
+                            "region_confidence": {
+                              "Africa": 1.0
+                            },
+                            "region_entropy": -1.000088900581841e-12
+                          },
+                          "branch_length": 5.39e-06,
+                          "clade": 32,
+                          "muts": [],
+                          "strain": "hCoV-19/Nigeria/OS055-CV8/2020",
+                          "yvalue": 46
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "EPI_ISL_455427",
+                            "clock_length": 5.393783987581364e-06,
+                            "country": "Nigeria",
+                            "country_confidence": {
+                              "Nigeria": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2020-03-29",
+                            "div": 0.000364846009851348,
+                            "num_date": 2020.2418032786886,
+                            "num_date_confidence": [
+                              2020.2418032786886,
+                              2020.2418032786886
+                            ],
+                            "raw_date": "2020-03-29",
+                            "region": "Africa",
+                            "region_confidence": {
+                              "Africa": 1.0
+                            },
+                            "region_entropy": -1.000088900581841e-12
+                          },
+                          "branch_length": 5.39e-06,
+                          "clade": 33,
+                          "muts": [],
+                          "strain": "hCoV-19/Nigeria/OS125-CV20/2020",
+                          "yvalue": 45
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "EPI_ISL_455425",
+                            "clock_length": 5.393783987581364e-06,
+                            "country": "Nigeria",
+                            "country_confidence": {
+                              "Nigeria": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2020-03-29",
+                            "div": 0.000364846009851348,
+                            "num_date": 2020.2418032786886,
+                            "num_date_confidence": [
+                              2020.2418032786886,
+                              2020.2418032786886
+                            ],
+                            "raw_date": "2020-03-29",
+                            "region": "Africa",
+                            "region_confidence": {
+                              "Africa": 1.0
+                            },
+                            "region_entropy": -1.000088900581841e-12
+                          },
+                          "branch_length": 5.39e-06,
+                          "clade": 34,
+                          "muts": [],
+                          "strain": "hCoV-19/Nigeria/OS116-CV17/2020",
+                          "yvalue": 44
+                        }
+                      ],
+                      "clade": 35,
+                      "muts": [
+                        "A2550G",
+                        "T9880C",
+                        "C15857T",
+                        "C20081T",
+                        "G29705T"
+                      ],
+                      "strain": "NODE_0000023",
+                      "yvalue": 47.5
+                    }
+                  ],
+                  "clade": 36,
+                  "muts": [
+                    "G22468T"
+                  ],
+                  "strain": "NODE_0000022",
+                  "yvalue": 51.25
+                }
+              ],
+              "clade": 37,
+              "muts": [
+                "G28878A",
+                "G29742A"
+              ],
+              "strain": "NODE_0000014",
+              "yvalue": 54.75
+            }
+          ],
+          "clade": 38,
+          "muts": [
+            "C8782T",
+            "T28144C"
+          ],
+          "strain": "NODE_0000013",
+          "yvalue": 57.875
+        }
+      ],
+      "clade": 39,
+      "muts": [],
+      "strain": "NODE_0000012",
+      "yvalue": 65.4375
+    },
+    {
+      "aa_muts": {
+        "GU280_gp02": [
+          "D614G"
+        ]
+      },
+      "attr": {
+        "clock_length": 9.985939860101482e-05,
+        "country": "Senegal",
+        "country_confidence": {
+          "China": 0.13728126508067637,
+          "Germany": 0.24745851082824458,
+          "Ghana": 0.031745368153577896,
+          "Senegal": 0.5192008259874875
+        },
+        "country_entropy": 1.3884621042266487,
+        "date": "2020-01-28",
+        "div": 6.983851802355124e-05,
+        "num_date": 2020.0751366120219,
+        "num_date_confidence": [
+          2020.0295212679066,
+          2020.0751366120219
+        ],
+        "region": "Europe",
+        "region_confidence": {
+          "Africa": 0.214500015687243,
+          "Asia": 0.012030738923716594,
+          "Europe": 0.7723922461507909
+        },
+        "region_entropy": 0.590973884924151
+      },
+      "branch_length": 9.986e-05,
+      "children": [
+        {
+          "aa_muts": {},
+          "attr": {
+            "accession": "EPI_ISL_406862",
+            "clock_length": 0.0,
+            "country": "Germany",
+            "country_confidence": {
+              "Germany": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "2020-01-28",
+            "div": 6.983851802355502e-05,
+            "num_date": 2020.0751366120219,
+            "num_date_confidence": [
+              2020.0751366120219,
+              2020.0751366120219
+            ],
+            "raw_date": "2020-01-28",
+            "region": "Europe",
+            "region_confidence": {
+              "Europe": 1.0
+            },
+            "region_entropy": -1.000088900581841e-12
+          },
+          "branch_length": 0.0,
+          "clade": 40,
+          "muts": [],
+          "strain": "hCoV-19/Germany/BavPat1/2020",
+          "yvalue": 43
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": 1.9557874186874977e-05,
+            "country": "Senegal",
+            "country_confidence": {
+              "Ghana": 0.032548935860229694,
+              "Senegal": 0.9673157187238149
+            },
+            "country_entropy": 0.14487568881460822,
+            "date": "2020-02-06",
+            "div": 0.00010327409610182679,
+            "num_date": 2020.0988082810056,
+            "num_date_confidence": [
+              2020.0810769147727,
+              2020.1271911066644
+            ],
+            "region": "Europe",
+            "region_confidence": {
+              "Africa": 0.25596336083403753,
+              "Europe": 0.7440365091040467
+            },
+            "region_entropy": 0.568794392810449
+          },
+          "branch_length": 1.956e-05,
+          "children": [
+            {
+              "aa_muts": {},
+              "attr": {
+                "accession": "EPI_ISL_412973",
+                "clock_length": 3.236270392548813e-05,
+                "country": "Italy",
+                "country_confidence": {
+                  "Italy": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2020-02-20",
+                "div": 0.00010327409610183057,
+                "num_date": 2020.1379781420765,
+                "num_date_confidence": [
+                  2020.1379781420765,
+                  2020.1379781420765
+                ],
+                "raw_date": "2020-02-20",
+                "region": "Europe",
+                "region_confidence": {
+                  "Europe": 1.0
+                },
+                "region_entropy": -1.000088900581841e-12
+              },
+              "branch_length": 3.236e-05,
+              "clade": 41,
+              "muts": [],
+              "strain": "hCoV-19/Italy/CDG1/2020",
+              "yvalue": 42
+            },
+            {
+              "aa_muts": {
+                "GU280_gp09": [
+                  "D75N"
+                ]
+              },
+              "attr": {
+                "accession": "EPI_ISL_420074",
+                "clock_length": 9.782778067589989e-05,
+                "country": "Senegal",
+                "country_confidence": {
+                  "Senegal": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2020-03-20",
+                "div": 0.0001701528556139545,
+                "num_date": 2020.217213114754,
+                "num_date_confidence": [
+                  2020.217213114754,
+                  2020.217213114754
+                ],
+                "raw_date": "2020-03-20",
+                "region": "Africa",
+                "region_confidence": {
+                  "Africa": 1.0
+                },
+                "region_entropy": -1.000088900581841e-12
+              },
+              "branch_length": 9.783e-05,
+              "clade": 42,
+              "muts": [
+                "A80G",
+                "G28116A"
+              ],
+              "strain": "hCoV-19/Senegal/600/2020",
+              "yvalue": 41
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 5.267945188246713e-05,
+                "country": "Senegal",
+                "country_confidence": {
+                  "China": 0.0338200720957207,
+                  "Ghana": 0.08176876162933469,
+                  "Nigeria": 0.044796113796429365,
+                  "Senegal": 0.5934480732403361
+                },
+                "country_entropy": 1.6774640774856064,
+                "date": "2020-02-29",
+                "div": 0.00017015625923418525,
+                "num_date": 2020.1625683060108,
+                "num_date_confidence": [
+                  2020.1625683060108,
+                  2020.1625683060108
+                ],
+                "raw_date": "2020-02-29",
+                "region": "Europe",
+                "region_confidence": {
+                  "Africa": 0.4184908445623785,
+                  "Asia": 0.024245996184208106,
+                  "Europe": 0.5136145952336402,
+                  "South America": 0.023588074356871835
+                },
+                "region_entropy": 0.9637441378120899
+              },
+              "branch_length": 5.268e-05,
+              "clade": 43,
+              "muts": [
+                "C23575T",
+                "C29857G"
+              ],
+              "strain": "hCoV-19/Luxembourg/LNS0000001/2020",
+              "yvalue": 40
+            },
+            {
+              "aa_muts": {
+                "GU280_gp02": [
+                  "G142V"
+                ]
+              },
+              "attr": {
+                "accession": "EPI_ISL_422400",
+                "clock_length": 0.00012040194507271021,
+                "country": "Ghana",
+                "country_confidence": {
+                  "Ghana": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2020-03-30",
+                "div": 0.00017019403069508466,
+                "num_date": 2020.2445355191257,
+                "num_date_confidence": [
+                  2020.2445355191257,
+                  2020.2445355191257
+                ],
+                "raw_date": "2020-03-30",
+                "region": "Africa",
+                "region_confidence": {
+                  "Africa": 1.0
+                },
+                "region_entropy": -1.000088900581841e-12
+              },
+              "branch_length": 0.0001204,
+              "clade": 44,
+              "muts": [
+                "A187G",
+                "G21987T"
+              ],
+              "strain": "hCoV-19/Ghana/2944_S9/2020",
+              "yvalue": 39
+            },
+            {
+              "aa_muts": {
+                "GU280_gp02": [
+                  "D839Y"
+                ]
+              },
+              "attr": {
+                "accession": "EPI_ISL_451307",
+                "clock_length": 3.4620120365131616e-05,
+                "country": "Italy",
+                "country_confidence": {
+                  "Italy": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2020-02-21",
+                "div": 0.0001367112281418013,
+                "num_date": 2020.1407103825136,
+                "num_date_confidence": [
+                  2020.1407103825136,
+                  2020.1407103825136
+                ],
+                "raw_date": "2020-02-21",
+                "region": "Europe",
+                "region_confidence": {
+                  "Europe": 1.0
+                },
+                "region_entropy": -1.000088900581841e-12
+              },
+              "branch_length": 3.462e-05,
+              "clade": 45,
+              "muts": [
+                "G24077T"
+              ],
+              "strain": "hCoV-19/Italy/PV-5314-N/2020",
+              "yvalue": 38
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 6.240967948589781e-05,
+                "country": "Senegal",
+                "country_confidence": {
+                  "Ghana": 0.11542486478991539,
+                  "Senegal": 0.8843837375521847
+                },
+                "country_entropy": 0.3597785205018886,
+                "date": "2020-03-04",
+                "div": 0.00013671003197121995,
+                "num_date": 2020.1743451854795,
+                "num_date_confidence": [
+                  2020.1376967648864,
+                  2020.198087431694
+                ],
+                "region": "Africa",
+                "region_confidence": {
+                  "Africa": 0.9941365152665697,
+                  "Europe": 0.0058546612300681925
+                },
+                "region_entropy": 0.036047337347664826
+              },
+              "branch_length": 6.241e-05,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "EPI_ISL_420070",
+                    "clock_length": 2.8645851871071697e-05,
+                    "country": "Senegal",
+                    "country_confidence": {
+                      "Senegal": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2020-03-17",
+                    "div": 0.00020359013890909706,
+                    "num_date": 2020.2090163934427,
+                    "num_date_confidence": [
+                      2020.2090163934427,
+                      2020.2090163934427
+                    ],
+                    "raw_date": "2020-03-17",
+                    "region": "Africa",
+                    "region_confidence": {
+                      "Africa": 0.9999999999999999
+                    },
+                    "region_entropy": -9.99866855976916e-13
+                  },
+                  "branch_length": 2.865e-05,
+                  "clade": 46,
+                  "muts": [
+                    "C19602T",
+                    "C21622T"
+                  ],
+                  "strain": "hCoV-19/Senegal/315/2020",
+                  "yvalue": 37
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "EPI_ISL_418217",
+                    "clock_length": 1.9616186112309995e-05,
+                    "country": "Senegal",
+                    "country_confidence": {
+                      "Senegal": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2020-03-13",
+                    "div": 0.00017015063164032662,
+                    "num_date": 2020.198087431694,
+                    "num_date_confidence": [
+                      2020.198087431694,
+                      2020.198087431694
+                    ],
+                    "raw_date": "2020-03-13",
+                    "region": "Africa",
+                    "region_confidence": {
+                      "Africa": 0.9999999999999999
+                    },
+                    "region_entropy": -9.99866855976916e-13
+                  },
+                  "branch_length": 1.962e-05,
+                  "clade": 47,
+                  "muts": [
+                    "G17722A"
+                  ],
+                  "strain": "hCoV-19/Senegal/139/2020",
+                  "yvalue": 36
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "EPI_ISL_422398",
+                    "clock_length": 5.573484914716894e-05,
+                    "country": "Ghana",
+                    "country_confidence": {
+                      "Ghana": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2020-03-29",
+                    "div": 0.00023706561485831298,
+                    "num_date": 2020.2418032786886,
+                    "num_date_confidence": [
+                      2020.2418032786886,
+                      2020.2418032786886
+                    ],
+                    "raw_date": "2020-03-29",
+                    "region": "Africa",
+                    "region_confidence": {
+                      "Africa": 0.9999999999999999
+                    },
+                    "region_entropy": -9.99866855976916e-13
+                  },
+                  "branch_length": 5.573e-05,
+                  "clade": 48,
+                  "muts": [
+                    "C18570T",
+                    "A23665C",
+                    "T24769G"
+                  ],
+                  "strain": "hCoV-19/Ghana/2853_S7/2020",
+                  "yvalue": 35
+                },
+                {
+                  "aa_muts": {
+                    "GU280_gp01": [
+                      "L3606F"
+                    ]
+                  },
+                  "attr": {
+                    "accession": "EPI_ISL_447607",
+                    "clock_length": 0.00011217026013881899,
+                    "country": "DRCongo",
+                    "country_confidence": {
+                      "DRCongo": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2020-04-23",
+                    "div": 0.00020360646071223328,
+                    "num_date": 2020.3101092896175,
+                    "num_date_confidence": [
+                      2020.3101092896175,
+                      2020.3101092896175
+                    ],
+                    "raw_date": "2020-04-23",
+                    "region": "Africa",
+                    "region_confidence": {
+                      "Africa": 0.9999999999999999
+                    },
+                    "region_entropy": -9.99866855976916e-13
+                  },
+                  "branch_length": 0.00011217,
+                  "clade": 49,
+                  "muts": [
+                    "G11083T",
+                    "A16085G"
+                  ],
+                  "strain": "hCoV-19/DRC/3632/2020",
+                  "yvalue": 34
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "EPI_ISL_422405",
+                    "clock_length": 4.670518338840724e-05,
+                    "country": "Ghana",
+                    "country_confidence": {
+                      "Ghana": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2020-03-25",
+                    "div": 0.0001701525501328013,
+                    "num_date": 2020.23087431694,
+                    "num_date_confidence": [
+                      2020.23087431694,
+                      2020.23087431694
+                    ],
+                    "raw_date": "2020-03-25",
+                    "region": "Africa",
+                    "region_confidence": {
+                      "Africa": 0.9999999999999999
+                    },
+                    "region_entropy": -9.99866855976916e-13
+                  },
+                  "branch_length": 4.671e-05,
+                  "clade": 50,
+                  "muts": [
+                    "T10561C"
+                  ],
+                  "strain": "hCoV-19/Ghana/1659_S14/2020",
+                  "yvalue": 33
+                }
+              ],
+              "clade": 51,
+              "muts": [
+                "C15324T"
+              ],
+              "strain": "NODE_0000052",
+              "yvalue": 35.0
+            },
+            {
+              "aa_muts": {
+                "GU280_gp06": [
+                  "R20S"
+                ]
+              },
+              "attr": {
+                "clock_length": 7.167777317719233e-05,
+                "country": "Senegal",
+                "country_confidence": {
+                  "Senegal": 0.9999930069178657
+                },
+                "country_entropy": 9.126494879097107e-05,
+                "date": "2020-03-08",
+                "div": 0.00013671000088437814,
+                "num_date": 2020.185562725989,
+                "num_date_confidence": [
+                  2020.1362156793691,
+                  2020.1898907103825
+                ],
+                "region": "Africa",
+                "region_confidence": {
+                  "Africa": 0.9941365152665697,
+                  "Europe": 0.0058546612300681925
+                },
+                "region_entropy": 0.036047337347664826
+              },
+              "branch_length": 7.168e-05,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "EPI_ISL_418210",
+                    "clock_length": 3.5758431020851e-06,
+                    "country": "Senegal",
+                    "country_confidence": {
+                      "Senegal": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2020-03-10",
+                    "div": 0.0001367100008843819,
+                    "num_date": 2020.1898907103825,
+                    "num_date_confidence": [
+                      2020.1898907103825,
+                      2020.1898907103825
+                    ],
+                    "raw_date": "2020-03-10",
+                    "region": "Africa",
+                    "region_confidence": {
+                      "Africa": 0.9999999999999999
+                    },
+                    "region_entropy": -9.99866855976916e-13
+                  },
+                  "branch_length": 3.58e-06,
+                  "clade": 52,
+                  "muts": [],
+                  "strain": "hCoV-19/Senegal/073/2020",
+                  "yvalue": 32
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "EPI_ISL_418212",
+                    "clock_length": 5.8332595417285595e-06,
+                    "country": "Senegal",
+                    "country_confidence": {
+                      "Senegal": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2020-03-11",
+                    "div": 0.0001367100008843819,
+                    "num_date": 2020.1926229508197,
+                    "num_date_confidence": [
+                      2020.1926229508197,
+                      2020.1926229508197
+                    ],
+                    "raw_date": "2020-03-11",
+                    "region": "Africa",
+                    "region_confidence": {
+                      "Africa": 0.9999999999999999
+                    },
+                    "region_entropy": -9.99866855976916e-13
+                  },
+                  "branch_length": 5.83e-06,
+                  "clade": 53,
+                  "muts": [],
+                  "strain": "hCoV-19/Senegal/087/2020",
+                  "yvalue": 31
+                },
+                {
+                  "aa_muts": {
+                    "GU280_gp10": [
+                      "P383L"
+                    ]
+                  },
+                  "attr": {
+                    "accession": "EPI_ISL_418213",
+                    "clock_length": 8.090675981372019e-06,
+                    "country": "Senegal",
+                    "country_confidence": {
+                      "Senegal": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2020-03-12",
+                    "div": 0.00017015005801026726,
+                    "num_date": 2020.1953551912568,
+                    "num_date_confidence": [
+                      2020.1953551912568,
+                      2020.1953551912568
+                    ],
+                    "raw_date": "2020-03-12",
+                    "region": "Africa",
+                    "region_confidence": {
+                      "Africa": 0.9999999999999999
+                    },
+                    "region_entropy": -9.99866855976916e-13
+                  },
+                  "branch_length": 8.09e-06,
+                  "clade": 54,
+                  "muts": [
+                    "C29421T"
+                  ],
+                  "strain": "hCoV-19/Senegal/094/2020",
+                  "yvalue": 30
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "EPI_ISL_418211",
+                    "clock_length": 5.8332595417285595e-06,
+                    "country": "Senegal",
+                    "country_confidence": {
+                      "Senegal": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2020-03-11",
+                    "div": 0.0001367100008843819,
+                    "num_date": 2020.1926229508197,
+                    "num_date_confidence": [
+                      2020.1926229508197,
+                      2020.1926229508197
+                    ],
+                    "raw_date": "2020-03-11",
+                    "region": "Africa",
+                    "region_confidence": {
+                      "Africa": 0.9999999999999999
+                    },
+                    "region_entropy": -9.99866855976916e-13
+                  },
+                  "branch_length": 5.83e-06,
+                  "clade": 55,
+                  "muts": [],
+                  "strain": "hCoV-19/Senegal/082/2020",
+                  "yvalue": 29
+                },
+                {
+                  "aa_muts": {
+                    "GU280_gp01": [
+                      "K856Q"
+                    ]
+                  },
+                  "attr": {
+                    "accession": "EPI_ISL_418215",
+                    "clock_length": 8.090675981372019e-06,
+                    "country": "Senegal",
+                    "country_confidence": {
+                      "Senegal": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2020-03-12",
+                    "div": 0.0002035887564149051,
+                    "num_date": 2020.1953551912568,
+                    "num_date_confidence": [
+                      2020.1953551912568,
+                      2020.1953551912568
+                    ],
+                    "raw_date": "2020-03-12",
+                    "region": "Africa",
+                    "region_confidence": {
+                      "Africa": 0.9999999999999999
+                    },
+                    "region_entropy": -9.99866855976916e-13
+                  },
+                  "branch_length": 8.09e-06,
+                  "clade": 56,
+                  "muts": [
+                    "A2831C",
+                    "T19295G"
+                  ],
+                  "strain": "hCoV-19/Senegal/119/2020",
+                  "yvalue": 28
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 8.090675981372019e-06,
+                    "country": "Senegal",
+                    "country_confidence": {
+                      "China": 0.03423574882832236,
+                      "Ghana": 0.06313280423824928,
+                      "Nigeria": 0.0450428972092126,
+                      "Senegal": 0.6112143696871736
+                    },
+                    "country_entropy": 1.6401797107341425,
+                    "date": "2020-03-12",
+                    "div": 0.0001367100008843819,
+                    "num_date": 2020.1953551912568,
+                    "num_date_confidence": [
+                      2020.1953551912568,
+                      2020.1953551912568
+                    ],
+                    "raw_date": "2020-03-12",
+                    "region": "Africa",
+                    "region_confidence": {
+                      "Africa": 0.8485508554518457,
+                      "Asia": 0.03906981995608226,
+                      "Europe": 0.06389119148328143,
+                      "North America": 0.02474360721756847
+                    },
+                    "region_entropy": 0.6221164596395168
+                  },
+                  "branch_length": 8.09e-06,
+                  "clade": 57,
+                  "muts": [],
+                  "strain": "hCoV-19/Senegal/102/2020",
+                  "yvalue": 27
+                }
+              ],
+              "clade": 58,
+              "muts": [
+                "G27261T"
+              ],
+              "strain": "NODE_0000045",
+              "yvalue": 29.5
+            },
+            {
+              "aa_muts": {
+                "GU280_gp10": [
+                  "R203K",
+                  "G204R"
+                ]
+              },
+              "attr": {
+                "clock_length": 3.8989985870735406e-05,
+                "country": "Ghana",
+                "country_confidence": {
+                  "Gambia": 0.0033629498889581745,
+                  "Ghana": 0.9574974285575479,
+                  "Netherlands": 0.002221198613102836,
+                  "Senegal": 0.029544770309257475
+                },
+                "country_entropy": 0.22525363624926475,
+                "date": "2020-02-23",
+                "div": 0.0002035957815694726,
+                "num_date": 2020.1459994036395,
+                "num_date_confidence": [
+                  2020.1280267692555,
+                  2020.1481091255835
+                ],
+                "region": "Europe",
+                "region_confidence": {
+                  "Africa": 0.07039738168971058,
+                  "Europe": 0.929601746566019
+                },
+                "region_entropy": 0.25467916018360104
+              },
+              "branch_length": 3.899e-05,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "EPI_ISL_416035",
+                    "clock_length": 2.4976548210136885e-05,
+                    "country": "Brazil",
+                    "country_confidence": {
+                      "Brazil": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2020-03-05",
+                    "div": 0.00023703261575055157,
+                    "num_date": 2020.1762295081967,
+                    "num_date_confidence": [
+                      2020.1762295081967,
+                      2020.1762295081967
+                    ],
+                    "raw_date": "2020-03-05",
+                    "region": "South America",
+                    "region_confidence": {
+                      "South America": 1.0
+                    },
+                    "region_entropy": -1.000088900581841e-12
+                  },
+                  "branch_length": 2.498e-05,
+                  "clade": 59,
+                  "muts": [
+                    "C313T"
+                  ],
+                  "strain": "hCoV-19/Brazil/SPBR-13/2020",
+                  "yvalue": 26
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "EPI_ISL_437932",
+                    "clock_length": 2.4023838135144265e-06,
+                    "country": "Austria",
+                    "country_confidence": {
+                      "Austria": 0.9999999999999999
+                    },
+                    "country_entropy": -9.99866855976916e-13,
+                    "date": "2020-02-24",
+                    "div": 0.00020359578156947637,
+                    "num_date": 2020.1489071038252,
+                    "num_date_confidence": [
+                      2020.1489071038252,
+                      2020.1489071038252
+                    ],
+                    "raw_date": "2020-02-24",
+                    "region": "Europe",
+                    "region_confidence": {
+                      "Europe": 1.0
+                    },
+                    "region_entropy": -1.000088900581841e-12
+                  },
+                  "branch_length": 2.4e-06,
+                  "clade": 60,
+                  "muts": [],
+                  "strain": "hCoV-19/Austria/CeMM0045/2020",
+                  "yvalue": 25
+                },
+                {
+                  "aa_muts": {
+                    "GU280_gp01": [
+                      "K1230N"
+                    ]
+                  },
+                  "attr": {
+                    "accession": "EPI_ISL_422404",
+                    "clock_length": 6.786746056392618e-05,
+                    "country": "Ghana",
+                    "country_confidence": {
+                      "Ghana": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2020-03-24",
+                    "div": 0.00027048773948019694,
+                    "num_date": 2020.2281420765028,
+                    "num_date_confidence": [
+                      2020.2281420765028,
+                      2020.2281420765028
+                    ],
+                    "raw_date": "2020-03-24",
+                    "region": "Africa",
+                    "region_confidence": {
+                      "Africa": 1.0
+                    },
+                    "region_entropy": -1.000088900581841e-12
+                  },
+                  "branch_length": 6.787e-05,
+                  "clade": 61,
+                  "muts": [
+                    "G3955T",
+                    "G16117T"
+                  ],
+                  "strain": "hCoV-19/Ghana/1565_S13/2020",
+                  "yvalue": 24
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "EPI_ISL_416737",
+                    "clock_length": 2.0461715330849967e-05,
+                    "country": "England",
+                    "country_confidence": {
+                      "England": 0.9999999999999999
+                    },
+                    "country_entropy": -9.99866855976916e-13,
+                    "date": "2020-03-03",
+                    "div": 0.00020359578156947637,
+                    "num_date": 2020.1707650273224,
+                    "num_date_confidence": [
+                      2020.1707650273224,
+                      2020.1707650273224
+                    ],
+                    "raw_date": "2020-03-03",
+                    "region": "Europe",
+                    "region_confidence": {
+                      "Europe": 1.0
+                    },
+                    "region_entropy": -1.000088900581841e-12
+                  },
+                  "branch_length": 2.046e-05,
+                  "clade": 62,
+                  "muts": [],
+                  "strain": "hCoV-19/England/SHEF-BFD27/2020",
+                  "yvalue": 23
+                },
+                {
+                  "aa_muts": {
+                    "GU280_gp01": [
+                      "A138T"
+                    ]
+                  },
+                  "attr": {
+                    "accession": "EPI_ISL_422399",
+                    "clock_length": 8.14119592019748e-05,
+                    "country": "Ghana",
+                    "country_confidence": {
+                      "Ghana": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2020-03-30",
+                    "div": 0.00023703529002420384,
+                    "num_date": 2020.2445355191257,
+                    "num_date_confidence": [
+                      2020.2445355191257,
+                      2020.2445355191257
+                    ],
+                    "raw_date": "2020-03-30",
+                    "region": "Africa",
+                    "region_confidence": {
+                      "Africa": 1.0
+                    },
+                    "region_entropy": -1.000088900581841e-12
+                  },
+                  "branch_length": 8.141e-05,
+                  "clade": 63,
+                  "muts": [
+                    "G677A"
+                  ],
+                  "strain": "hCoV-19/Ghana/2914_S8/2020",
+                  "yvalue": 22
+                },
+                {
+                  "aa_muts": {
+                    "GU280_gp01": [
+                      "S2103F"
+                    ],
+                    "GU280_gp03": [
+                      "L46F"
+                    ]
+                  },
+                  "attr": {
+                    "accession": "EPI_ISL_428855",
+                    "clock_length": 5.20655454862341e-05,
+                    "country": "Gambia",
+                    "country_confidence": {
+                      "Gambia": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2020-03-17",
+                    "div": 0.000270476866229257,
+                    "num_date": 2020.2090163934427,
+                    "num_date_confidence": [
+                      2020.2090163934427,
+                      2020.2090163934427
+                    ],
+                    "raw_date": "2020-03-17",
+                    "region": "Africa",
+                    "region_confidence": {
+                      "Africa": 1.0
+                    },
+                    "region_entropy": -1.000088900581841e-12
+                  },
+                  "branch_length": 5.207e-05,
+                  "clade": 64,
+                  "muts": [
+                    "C6573T",
+                    "C25528T"
+                  ],
+                  "strain": "hCoV-19/Gambia/GC19-015/2020",
+                  "yvalue": 21
+                },
+                {
+                  "aa_muts": {
+                    "GU280_gp01": [
+                      "C231Y"
+                    ]
+                  },
+                  "attr": {
+                    "clock_length": 9.174633132444805e-06,
+                    "country": "Ghana",
+                    "country_confidence": {
+                      "Gambia": 0.03041452402136398,
+                      "Ghana": 0.6110979994537998,
+                      "Nigeria": 0.037620717396321515,
+                      "Senegal": 0.08312141737786591
+                    },
+                    "country_entropy": 1.6221872815036007,
+                    "date": "2020-02-27",
+                    "div": 0.00023704192360943604,
+                    "num_date": 2020.1571038251366,
+                    "num_date_confidence": [
+                      2020.1571038251366,
+                      2020.1571038251366
+                    ],
+                    "raw_date": "2020-02-27",
+                    "region": "Europe",
+                    "region_confidence": {
+                      "Africa": 0.3103795909086176,
+                      "Asia": 0.020521178772222752,
+                      "Europe": 0.6266665933353204,
+                      "South America": 0.02354933483514744
+                    },
+                    "region_entropy": 0.898984876875883
+                  },
+                  "branch_length": 9.17e-06,
+                  "clade": 65,
+                  "muts": [
+                    "G957A"
+                  ],
+                  "strain": "hCoV-19/Nigeria/Lagos01/2020",
+                  "yvalue": 20
+                },
+                {
+                  "aa_muts": {
+                    "GU280_gp05": [
+                      "T175M"
+                    ]
+                  },
+                  "attr": {
+                    "accession": "EPI_ISL_413565",
+                    "clock_length": 2.4023838135144265e-06,
+                    "country": "Netherlands",
+                    "country_confidence": {
+                      "Netherlands": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2020-02-24",
+                    "div": 0.00023704014753649327,
+                    "num_date": 2020.1489071038252,
+                    "num_date_confidence": [
+                      2020.1489071038252,
+                      2020.1489071038252
+                    ],
+                    "raw_date": "2020-02-24",
+                    "region": "Europe",
+                    "region_confidence": {
+                      "Europe": 1.0
+                    },
+                    "region_entropy": -1.000088900581841e-12
+                  },
+                  "branch_length": 2.4e-06,
+                  "clade": 66,
+                  "muts": [
+                    "C27046T"
+                  ],
+                  "strain": "hCoV-19/Netherlands/Berlicum_1363564/2020",
+                  "yvalue": 19
+                }
+              ],
+              "clade": 67,
+              "muts": [
+                "G28881A",
+                "G28882A",
+                "G28883C"
+              ],
+              "strain": "NODE_0000033",
+              "yvalue": 22.5
+            },
+            {
+              "aa_muts": {
+                "GU280_gp03": [
+                  "Q57H"
+                ]
+              },
+              "attr": {
+                "clock_length": 2.6448657192419396e-05,
+                "country": "Senegal",
+                "country_confidence": {
+                  "Ghana": 0.007844226889406064,
+                  "Nigeria": 0.015322428077419695,
+                  "Senegal": 0.9764569091049158
+                },
+                "country_entropy": 0.12909679259136325,
+                "date": "2020-02-17",
+                "div": 0.00013671000088437814,
+                "num_date": 2020.1308201373117,
+                "num_date_confidence": [
+                  2020.0694181692456,
+                  2020.1309860307408
+                ],
+                "region": "Africa",
+                "region_confidence": {
+                  "Africa": 0.9291097099597709,
+                  "Europe": 0.07049054658688256
+                },
+                "region_entropy": 0.2586546902952527
+              },
+              "branch_length": 2.645e-05,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "EPI_ISL_455362",
+                    "clock_length": 0.0001187848687165567,
+                    "country": "Nigeria",
+                    "country_confidence": {
+                      "Nigeria": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2020-04-10",
+                    "div": 0.00023702661678239948,
+                    "num_date": 2020.2745901639344,
+                    "num_date_confidence": [
+                      2020.2745901639344,
+                      2020.2745901639344
+                    ],
+                    "raw_date": "2020-04-10",
+                    "region": "Africa",
+                    "region_confidence": {
+                      "Africa": 1.0
+                    },
+                    "region_entropy": -1.000088900581841e-12
+                  },
+                  "branch_length": 0.00011878,
+                  "clade": 68,
+                  "muts": [
+                    "C11224T",
+                    "C18877T",
+                    "G29742T"
+                  ],
+                  "strain": "hCoV-19/Nigeria/KW017-CV24/2020",
+                  "yvalue": 18
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 2.4213493747326506e-05,
+                    "country": "Senegal",
+                    "country_confidence": {
+                      "Ghana": 0.0044693345187932715,
+                      "Nigeria": 0.01275457949823221,
+                      "Senegal": 0.9803910873544973
+                    },
+                    "country_entropy": 0.1181903397150129,
+                    "date": "2020-02-28",
+                    "div": 0.00017014602681709738,
+                    "num_date": 2020.1601266868604,
+                    "num_date_confidence": [
+                      2020.121328485292,
+                      2020.1920447775587
+                    ],
+                    "region": "Africa",
+                    "region_confidence": {
+                      "Africa": 0.9763346242735252,
+                      "Asia": 0.0013672691793444789,
+                      "Europe": 0.021854474937341373
+                    },
+                    "region_entropy": 0.1196864334097679
+                  },
+                  "branch_length": 2.421e-05,
+                  "children": [
+                    {
+                      "aa_muts": {
+                        "GU280_gp02": [
+                          "E156D"
+                        ],
+                        "GU280_gp04": [
+                          "R69I"
+                        ]
+                      },
+                      "attr": {
+                        "accession": "EPI_ISL_420073",
+                        "clock_length": 4.4908213296510524e-05,
+                        "country": "Senegal",
+                        "country_confidence": {
+                          "Senegal": 0.9999999999999999
+                        },
+                        "country_entropy": -9.99866855976916e-13,
+                        "date": "2020-03-19",
+                        "div": 0.0002370259440276703,
+                        "num_date": 2020.214480874317,
+                        "num_date_confidence": [
+                          2020.214480874317,
+                          2020.214480874317
+                        ],
+                        "raw_date": "2020-03-19",
+                        "region": "Africa",
+                        "region_confidence": {
+                          "Africa": 1.0
+                        },
+                        "region_entropy": -1.000088900581841e-12
+                      },
+                      "branch_length": 4.491e-05,
+                      "clade": 69,
+                      "muts": [
+                        "G22030T",
+                        "G26450T"
+                      ],
+                      "strain": "hCoV-19/Senegal/382/2020",
+                      "yvalue": 17
+                    },
+                    {
+                      "aa_muts": {
+                        "GU280_gp01": [
+                          "Q2702H"
+                        ]
+                      },
+                      "attr": {
+                        "clock_length": 2.5451211577157552e-05,
+                        "country": "Senegal",
+                        "country_confidence": {
+                          "Gambia": 0.01763344153798564,
+                          "Ghana": 0.009806000983256166,
+                          "Nigeria": 0.06560525018955413,
+                          "Senegal": 0.902967076758197
+                        },
+                        "country_entropy": 0.417860108915422,
+                        "date": "2020-03-10",
+                        "div": 0.0002035823378968265,
+                        "num_date": 2020.1909312952719,
+                        "num_date_confidence": [
+                          2020.1686155248212,
+                          2020.217213114754
+                        ],
+                        "region": "Africa",
+                        "region_confidence": {
+                          "Africa": 0.9959336047543709,
+                          "Europe": 0.003777908784542687
+                        },
+                        "region_entropy": 0.02762449819415303
+                      },
+                      "branch_length": 2.545e-05,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "EPI_ISL_420076",
+                            "clock_length": 2.1714418158996432e-05,
+                            "country": "Senegal",
+                            "country_confidence": {
+                              "Senegal": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2020-03-20",
+                            "div": 0.00020358233789683026,
+                            "num_date": 2020.217213114754,
+                            "num_date_confidence": [
+                              2020.217213114754,
+                              2020.217213114754
+                            ],
+                            "raw_date": "2020-03-20",
+                            "region": "Africa",
+                            "region_confidence": {
+                              "Africa": 1.0
+                            },
+                            "region_entropy": -1.000088900581841e-12
+                          },
+                          "branch_length": 2.171e-05,
+                          "clade": 70,
+                          "muts": [],
+                          "strain": "hCoV-19/Senegal/611/2020",
+                          "yvalue": 16
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "EPI_ISL_428857",
+                            "clock_length": 9.169432778888297e-05,
+                            "country": "Gambia",
+                            "country_confidence": {
+                              "Gambia": 0.9999999999999999
+                            },
+                            "country_entropy": -9.99866855976916e-13,
+                            "date": "2020-04-20",
+                            "div": 0.00020358233789683026,
+                            "num_date": 2020.301912568306,
+                            "num_date_confidence": [
+                              2020.301912568306,
+                              2020.301912568306
+                            ],
+                            "raw_date": "2020-04-20",
+                            "region": "Africa",
+                            "region_confidence": {
+                              "Africa": 1.0
+                            },
+                            "region_entropy": -1.000088900581841e-12
+                          },
+                          "branch_length": 9.169e-05,
+                          "clade": 71,
+                          "muts": [],
+                          "strain": "hCoV-19/Gambia/GC19-029/2020",
+                          "yvalue": 15
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "EPI_ISL_455419",
+                            "clock_length": 4.2031166116163296e-05,
+                            "country": "Nigeria",
+                            "country_confidence": {
+                              "Nigeria": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2020-03-29",
+                            "div": 0.00033735565665360314,
+                            "num_date": 2020.2418032786886,
+                            "num_date_confidence": [
+                              2020.2418032786886,
+                              2020.2418032786886
+                            ],
+                            "raw_date": "2020-03-29",
+                            "region": "Africa",
+                            "region_confidence": {
+                              "Africa": 1.0
+                            },
+                            "region_entropy": -1.000088900581841e-12
+                          },
+                          "branch_length": 4.203e-05,
+                          "clade": 72,
+                          "muts": [
+                            "G487A",
+                            "A2497G",
+                            "C4990T",
+                            "G18315A"
+                          ],
+                          "strain": "hCoV-19/Nigeria/OS060-CV9/2020",
+                          "yvalue": 14
+                        }
+                      ],
+                      "clade": 73,
+                      "muts": [
+                        "G8371T"
+                      ],
+                      "strain": "NODE_0000058",
+                      "yvalue": 15.0
+                    }
+                  ],
+                  "clade": 74,
+                  "muts": [
+                    "C2416T"
+                  ],
+                  "strain": "NODE_0000057",
+                  "yvalue": 16.0
+                },
+                {
+                  "aa_muts": {
+                    "GU280_gp01": [
+                      "T265I"
+                    ]
+                  },
+                  "attr": {
+                    "clock_length": 5.2444443088777814e-06,
+                    "country": "Senegal",
+                    "country_confidence": {
+                      "Ghana": 0.013197439148477076,
+                      "Senegal": 0.9864038800044747
+                    },
+                    "country_entropy": 0.0737549649596363,
+                    "date": "2020-02-20",
+                    "div": 0.00017014602681709738,
+                    "num_date": 2020.137167695768,
+                    "num_date_confidence": [
+                      2020.07498526874,
+                      2020.1407103825136
+                    ],
+                    "region": "Africa",
+                    "region_confidence": {
+                      "Africa": 0.9955231159312825,
+                      "Europe": 0.004476491593798131
+                    },
+                    "region_entropy": 0.02868564037422603
+                  },
+                  "branch_length": 5.24e-06,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "EPI_ISL_420072",
+                        "clock_length": 6.161984629531579e-05,
+                        "country": "Senegal",
+                        "country_confidence": {
+                          "Senegal": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2020-03-18",
+                        "div": 0.0002370276808105927,
+                        "num_date": 2020.2117486338798,
+                        "num_date_confidence": [
+                          2020.2117486338798,
+                          2020.2117486338798
+                        ],
+                        "raw_date": "2020-03-18",
+                        "region": "Africa",
+                        "region_confidence": {
+                          "Africa": 0.9999999999999999
+                        },
+                        "region_entropy": -9.99866855976916e-13
+                      },
+                      "branch_length": 6.162e-05,
+                      "clade": 75,
+                      "muts": [
+                        "C22000T",
+                        "C25680A"
+                      ],
+                      "strain": "hCoV-19/Senegal/370/2020",
+                      "yvalue": 13
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "EPI_ISL_455429",
+                        "clock_length": 8.193659425229479e-05,
+                        "country": "Nigeria",
+                        "country_confidence": {
+                          "Nigeria": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2020-03-27",
+                        "div": 0.0002035832356992981,
+                        "num_date": 2020.2363387978141,
+                        "num_date_confidence": [
+                          2020.2363387978141,
+                          2020.2363387978141
+                        ],
+                        "raw_date": "2020-03-27",
+                        "region": "Africa",
+                        "region_confidence": {
+                          "Africa": 0.9999999999999999
+                        },
+                        "region_entropy": -9.99866855976916e-13
+                      },
+                      "branch_length": 8.194e-05,
+                      "clade": 76,
+                      "muts": [
+                        "T29821C"
+                      ],
+                      "strain": "hCoV-19/Nigeria/OY008-CV29/2020",
+                      "yvalue": 12
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "EPI_ISL_429968",
+                        "clock_length": 2.927018863834439e-06,
+                        "country": "France",
+                        "country_confidence": {
+                          "France": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2020-02-21",
+                        "div": 0.00017014602681710115,
+                        "num_date": 2020.1407103825136,
+                        "num_date_confidence": [
+                          2020.1407103825136,
+                          2020.1407103825136
+                        ],
+                        "raw_date": "2020-02-21",
+                        "region": "Europe",
+                        "region_confidence": {
+                          "Europe": 1.0
+                        },
+                        "region_entropy": -1.000088900581841e-12
+                      },
+                      "branch_length": 2.93e-06,
+                      "clade": 77,
+                      "muts": [],
+                      "strain": "hCoV-19/France/HF1463/2020",
+                      "yvalue": 11
+                    },
+                    {
+                      "aa_muts": {
+                        "GU280_gp01": [
+                          "S3884L"
+                        ]
+                      },
+                      "attr": {
+                        "accession": "EPI_ISL_422394",
+                        "clock_length": 8.193659425229479e-05,
+                        "country": "Ghana",
+                        "country_confidence": {
+                          "Ghana": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2020-03-27",
+                        "div": 0.0002704767489105791,
+                        "num_date": 2020.2363387978141,
+                        "num_date_confidence": [
+                          2020.2363387978141,
+                          2020.2363387978141
+                        ],
+                        "raw_date": "2020-03-27",
+                        "region": "Africa",
+                        "region_confidence": {
+                          "Africa": 0.9999999999999999
+                        },
+                        "region_entropy": -9.99866855976916e-13
+                      },
+                      "branch_length": 8.194e-05,
+                      "clade": 78,
+                      "muts": [
+                        "C11916T",
+                        "C18998T",
+                        "G29540A"
+                      ],
+                      "strain": "hCoV-19/Ghana/2333_S5/2020",
+                      "yvalue": 10
+                    },
+                    {
+                      "aa_muts": {
+                        "GU280_gp01": [
+                          "T814I"
+                        ]
+                      },
+                      "attr": {
+                        "clock_length": 4.529133031830291e-05,
+                        "country": "Ghana",
+                        "country_confidence": {
+                          "Ghana": 0.9094217536990796,
+                          "Nigeria": 0.0018574441531753988,
+                          "Senegal": 0.08547950240123685
+                        },
+                        "country_entropy": 0.3344682691903071,
+                        "date": "2020-03-11",
+                        "div": 0.00027046040794120375,
+                        "num_date": 2020.191985584915,
+                        "num_date_confidence": [
+                          2020.1634761323414,
+                          2020.2208989206115
+                        ],
+                        "region": "Africa",
+                        "region_confidence": {
+                          "Africa": 0.9904541207761939,
+                          "Asia": 0.0012698482498755095,
+                          "Europe": 0.007873879697225313
+                        },
+                        "region_entropy": 0.05953005456359113
+                      },
+                      "branch_length": 4.529e-05,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "EPI_ISL_422401",
+                            "clock_length": 4.567492969275358e-05,
+                            "country": "Ghana",
+                            "country_confidence": {
+                              "Ghana": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2020-03-31",
+                            "div": 0.00027046040794120754,
+                            "num_date": 2020.2472677595629,
+                            "num_date_confidence": [
+                              2020.2472677595629,
+                              2020.2472677595629
+                            ],
+                            "raw_date": "2020-03-31",
+                            "region": "Africa",
+                            "region_confidence": {
+                              "Africa": 1.0
+                            },
+                            "region_entropy": -1.000088900581841e-12
+                          },
+                          "branch_length": 4.567e-05,
+                          "clade": 79,
+                          "muts": [],
+                          "strain": "hCoV-19/Ghana/2986_S10/2020",
+                          "yvalue": 9
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "EPI_ISL_422384",
+                            "clock_length": 2.9873014615061497e-05,
+                            "country": "Ghana",
+                            "country_confidence": {
+                              "Ghana": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2020-03-24",
+                            "div": 0.000337348902870166,
+                            "num_date": 2020.2281420765028,
+                            "num_date_confidence": [
+                              2020.2281420765028,
+                              2020.2281420765028
+                            ],
+                            "raw_date": "2020-03-24",
+                            "region": "Africa",
+                            "region_confidence": {
+                              "Africa": 1.0
+                            },
+                            "region_entropy": -1.000088900581841e-12
+                          },
+                          "branch_length": 2.987e-05,
+                          "clade": 80,
+                          "muts": [
+                            "G20853T",
+                            "C28265T"
+                          ],
+                          "strain": "hCoV-19/Ghana/1622_S2/2020",
+                          "yvalue": 8
+                        }
+                      ],
+                      "clade": 81,
+                      "muts": [
+                        "C2706T",
+                        "C4321T",
+                        "C6040T"
+                      ],
+                      "strain": "NODE_0000064",
+                      "yvalue": 8.5
+                    },
+                    {
+                      "aa_muts": {
+                        "GU280_gp01": [
+                          "N854A",
+                          "K856Q"
+                        ],
+                        "GU280_gp10": [
+                          "E367K",
+                          "P368A",
+                          "K370Q",
+                          "K372S"
+                        ]
+                      },
+                      "attr": {
+                        "clock_length": 3.0531466596410146e-05,
+                        "country": "Senegal",
+                        "country_confidence": {
+                          "Ghana": 0.0028979850654975003,
+                          "Senegal": 0.9958808856226495
+                        },
+                        "country_entropy": 0.03167612459752953,
+                        "date": "2020-03-04",
+                        "div": 0.0005046267815024454,
+                        "num_date": 2020.1741211378421,
+                        "num_date_confidence": [
+                          2020.1454131325472,
+                          2020.191469745338
+                        ],
+                        "region": "Africa",
+                        "region_confidence": {
+                          "Africa": 0.9883853548902213,
+                          "Asia": 0.0014700173769361731,
+                          "Europe": 0.009701482518066068
+                        },
+                        "region_entropy": 0.06983022480457843
+                      },
+                      "branch_length": 3.053e-05,
+                      "children": [
+                        {
+                          "aa_muts": {
+                            "GU280_gp01": [
+                              "I265T",
+                              "N2201Y",
+                              "T2202S",
+                              "Q2702H"
+                            ]
+                          },
+                          "attr": {
+                            "accession": "EPI_ISL_420075",
+                            "clock_length": 3.560321257819256e-05,
+                            "country": "Senegal",
+                            "country_confidence": {
+                              "Senegal": 0.9999999999999999
+                            },
+                            "country_entropy": -9.99866855976916e-13,
+                            "date": "2020-03-20",
+                            "div": 0.0008057538272581265,
+                            "num_date": 2020.217213114754,
+                            "num_date_confidence": [
+                              2020.217213114754,
+                              2020.217213114754
+                            ],
+                            "raw_date": "2020-03-20",
+                            "region": "Africa",
+                            "region_confidence": {
+                              "Africa": 1.0
+                            },
+                            "region_entropy": -1.000088900581841e-12
+                          },
+                          "branch_length": 3.56e-05,
+                          "clade": 82,
+                          "muts": [
+                            "T1059C",
+                            "C2416T",
+                            "A6866T",
+                            "A6869T",
+                            "G8371T",
+                            "C15783T",
+                            "A20472C",
+                            "C22000T",
+                            "G29715A"
+                          ],
+                          "strain": "hCoV-19/Senegal/610/2020",
+                          "yvalue": 7
+                        },
+                        {
+                          "aa_muts": {
+                            "GU280_gp10": [
+                              "D371Y"
+                            ]
+                          },
+                          "attr": {
+                            "clock_length": 2.5839286681338493e-05,
+                            "country": "Senegal",
+                            "country_confidence": {
+                              "Ghana": 0.0015665884467564463,
+                              "Senegal": 0.9973108620097864
+                            },
+                            "country_entropy": 0.02269051507553074,
+                            "date": "2020-03-16",
+                            "div": 0.000538059450134246,
+                            "num_date": 2020.2053954489074,
+                            "num_date_confidence": [
+                              2020.171668739646,
+                              2020.2090163934427
+                            ],
+                            "region": "Africa",
+                            "region_confidence": {
+                              "Africa": 0.9892066902789656,
+                              "Asia": 0.001469214195665313,
+                              "Europe": 0.00888242292329342
+                            },
+                            "region_entropy": 0.06598947678340812
+                          },
+                          "branch_length": 2.584e-05,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "EPI_ISL_420071",
+                                "clock_length": 2.99167657792369e-06,
+                                "country": "Senegal",
+                                "country_confidence": {
+                                  "Senegal": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2020-03-17",
+                                "div": 0.0005380594501342498,
+                                "num_date": 2020.2090163934427,
+                                "num_date_confidence": [
+                                  2020.2090163934427,
+                                  2020.2090163934427
+                                ],
+                                "raw_date": "2020-03-17",
+                                "region": "Africa",
+                                "region_confidence": {
+                                  "Africa": 1.0
+                                },
+                                "region_entropy": -1.000088900581841e-12
+                              },
+                              "branch_length": 2.99e-06,
+                              "clade": 83,
+                              "muts": [],
+                              "strain": "hCoV-19/Senegal/328/2020",
+                              "yvalue": 6
+                            },
+                            {
+                              "aa_muts": {
+                                "GU280_gp01": [
+                                  "L3606F"
+                                ]
+                              },
+                              "attr": {
+                                "accession": "EPI_ISL_420079",
+                                "clock_length": 9.763925896854068e-06,
+                                "country": "Senegal",
+                                "country_confidence": {
+                                  "Senegal": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2020-03-20",
+                                "div": 0.0005715045024676371,
+                                "num_date": 2020.217213114754,
+                                "num_date_confidence": [
+                                  2020.217213114754,
+                                  2020.217213114754
+                                ],
+                                "raw_date": "2020-03-20",
+                                "region": "Africa",
+                                "region_confidence": {
+                                  "Africa": 1.0
+                                },
+                                "region_entropy": -1.000088900581841e-12
+                              },
+                              "branch_length": 9.76e-06,
+                              "clade": 84,
+                              "muts": [
+                                "G11083T"
+                              ],
+                              "strain": "hCoV-19/Senegal/640/2020",
+                              "yvalue": 5
+                            }
+                          ],
+                          "clade": 85,
+                          "muts": [
+                            "G29384T"
+                          ],
+                          "strain": "NODE_0000066",
+                          "yvalue": 5.5
+                        }
+                      ],
+                      "clade": 86,
+                      "muts": [
+                        "A2825G",
+                        "A2826C",
+                        "T2827A",
+                        "A2831C",
+                        "G29372A",
+                        "C29375G",
+                        "T29377C",
+                        "A29381C",
+                        "A29388G",
+                        "A29389T"
+                      ],
+                      "strain": "NODE_0000065",
+                      "yvalue": 6.25
+                    },
+                    {
+                      "aa_muts": {
+                        "GU280_gp03": [
+                          "A99V"
+                        ]
+                      },
+                      "attr": {
+                        "clock_length": 1.8728933941526493e-05,
+                        "country": "Senegal",
+                        "country_confidence": {
+                          "Senegal": 0.9996343388468371
+                        },
+                        "country_entropy": 0.0035230476865581776,
+                        "date": "2020-02-28",
+                        "div": 0.00027045799397142187,
+                        "num_date": 2020.1598360655737,
+                        "num_date_confidence": [
+                          2020.1507732092275,
+                          2020.1598360655737
+                        ],
+                        "region": "Africa",
+                        "region_confidence": {
+                          "Africa": 0.9972041265895539,
+                          "Europe": 0.0025482411257169804
+                        },
+                        "region_entropy": 0.020189862436227442
+                      },
+                      "branch_length": 1.873e-05,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "EPI_ISL_418208",
+                            "clock_length": 1.1287082198405162e-05,
+                            "country": "Senegal",
+                            "country_confidence": {
+                              "Senegal": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2020-03-04",
+                            "div": 0.00027045799397142566,
+                            "num_date": 2020.1734972677596,
+                            "num_date_confidence": [
+                              2020.1734972677596,
+                              2020.1734972677596
+                            ],
+                            "raw_date": "2020-03-04",
+                            "region": "Africa",
+                            "region_confidence": {
+                              "Africa": 0.9999999999999999
+                            },
+                            "region_entropy": -9.99866855976916e-13
+                          },
+                          "branch_length": 1.129e-05,
+                          "clade": 87,
+                          "muts": [],
+                          "strain": "hCoV-19/Senegal/020/2020",
+                          "yvalue": 4
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.0,
+                            "country": "Senegal",
+                            "country_confidence": {
+                              "China": 0.034237743060379584,
+                              "Ghana": 0.06330143086017515,
+                              "Nigeria": 0.04506091253155504,
+                              "Senegal": 0.611017488102552
+                            },
+                            "country_entropy": 1.640643250144447,
+                            "date": "2020-02-28",
+                            "div": 0.00027045799397142566,
+                            "num_date": 2020.1598360655737,
+                            "num_date_confidence": [
+                              2020.1598360655737,
+                              2020.1598360655737
+                            ],
+                            "raw_date": "2020-02-28",
+                            "region": "Africa",
+                            "region_confidence": {
+                              "Africa": 0.8503053081344576,
+                              "Asia": 0.03929232810348236,
+                              "Europe": 0.06186605231231876,
+                              "North America": 0.024780584127608248
+                            },
+                            "region_entropy": 0.6176995194902037
+                          },
+                          "branch_length": 0.0,
+                          "clade": 88,
+                          "muts": [],
+                          "strain": "hCoV-19/Senegal/003/2020",
+                          "yvalue": 3
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "EPI_ISL_418207",
+                            "clock_length": 6.772249319118243e-06,
+                            "country": "Senegal",
+                            "country_confidence": {
+                              "Senegal": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2020-03-02",
+                            "div": 0.00027045799397142566,
+                            "num_date": 2020.1680327868853,
+                            "num_date_confidence": [
+                              2020.1680327868853,
+                              2020.1680327868853
+                            ],
+                            "raw_date": "2020-03-02",
+                            "region": "Africa",
+                            "region_confidence": {
+                              "Africa": 0.9999999999999999
+                            },
+                            "region_entropy": -9.99866855976916e-13
+                          },
+                          "branch_length": 6.77e-06,
+                          "clade": 89,
+                          "muts": [],
+                          "strain": "hCoV-19/Senegal/016/2020",
+                          "yvalue": 2
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "EPI_ISL_418209",
+                            "clock_length": 9.029665758761703e-06,
+                            "country": "Senegal",
+                            "country_confidence": {
+                              "Senegal": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2020-03-03",
+                            "div": 0.00030389520285362256,
+                            "num_date": 2020.1707650273224,
+                            "num_date_confidence": [
+                              2020.1707650273224,
+                              2020.1707650273224
+                            ],
+                            "raw_date": "2020-03-03",
+                            "region": "Africa",
+                            "region_confidence": {
+                              "Africa": 0.9999999999999999
+                            },
+                            "region_entropy": -9.99866855976916e-13
+                          },
+                          "branch_length": 9.03e-06,
+                          "clade": 90,
+                          "muts": [
+                            "T28297C"
+                          ],
+                          "strain": "hCoV-19/Senegal/026/2020",
+                          "yvalue": 1
+                        }
+                      ],
+                      "clade": 91,
+                      "muts": [
+                        "T13006C",
+                        "C25688T"
+                      ],
+                      "strain": "NODE_0000070",
+                      "yvalue": 2.5
+                    }
+                  ],
+                  "clade": 92,
+                  "muts": [
+                    "C1059T"
+                  ],
+                  "strain": "NODE_0000061",
+                  "yvalue": 7.75
+                }
+              ],
+              "clade": 93,
+              "muts": [
+                "T3C",
+                "G25563T"
+              ],
+              "strain": "NODE_0000056",
+              "yvalue": 12.875
+            }
+          ],
+          "clade": 94,
+          "muts": [
+            "C14408T"
+          ],
+          "strain": "NODE_0000031",
+          "yvalue": 27.4375
+        }
+      ],
+      "clade": 95,
+      "muts": [
+        "C241T",
+        "C3037T",
+        "A23403G"
+      ],
+      "strain": "NODE_0000030",
+      "yvalue": 35.21875
+    }
+  ],
+  "clade": 96,
+  "muts": [],
+  "strain": "NODE_0000000",
+  "yvalue": 50.328125
+}
