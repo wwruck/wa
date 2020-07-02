@@ -1,0 +1,208 @@
+{
+  "annotations": {
+    "GU280_gp01": {
+      "end": 13483,
+      "start": 265,
+      "strand": 1
+    },
+    "GU280_gp02": {
+      "end": 25384,
+      "start": 21562,
+      "strand": 1
+    },
+    "GU280_gp03": {
+      "end": 26220,
+      "start": 25392,
+      "strand": 1
+    },
+    "GU280_gp04": {
+      "end": 26472,
+      "start": 26244,
+      "strand": 1
+    },
+    "GU280_gp05": {
+      "end": 27191,
+      "start": 26522,
+      "strand": 1
+    },
+    "GU280_gp06": {
+      "end": 27387,
+      "start": 27201,
+      "strand": 1
+    },
+    "GU280_gp07": {
+      "end": 27759,
+      "start": 27393,
+      "strand": 1
+    },
+    "GU280_gp08": {
+      "end": 27887,
+      "start": 27755,
+      "strand": 1
+    },
+    "GU280_gp09": {
+      "end": 28259,
+      "start": 27893,
+      "strand": 1
+    },
+    "GU280_gp10": {
+      "end": 29533,
+      "start": 28273,
+      "strand": 1
+    },
+    "GU280_gp11": {
+      "end": 29674,
+      "start": 29557,
+      "strand": 1
+    },
+    "nuc": {
+      "end": 29903,
+      "start": 0,
+      "strand": 1
+    }
+  },
+  "author_info": {},
+  "color_options": {
+    "authors": {
+      "key": "authors",
+      "legendTitle": "Authors",
+      "menuItem": "authors",
+      "type": "discrete"
+    },
+    "country": {
+      "key": "country",
+      "legendTitle": "country",
+      "menuItem": "country"
+    },
+    "division": {
+      "key": "division",
+      "legendTitle": "division",
+      "menuItem": "division"
+    },
+    "gt": {
+      "key": "genotype",
+      "legendTitle": "Genotype",
+      "menuItem": "genotype",
+      "type": "discrete"
+    },
+    "num_date": {
+      "key": "num_date",
+      "legendTitle": "Sampling date",
+      "menuItem": "date",
+      "type": "continuous"
+    },
+    "region": {
+      "color_map": [
+        [
+          "Africa",
+          "#CEB541"
+        ],
+        [
+          "Europe",
+          "#E39B39"
+        ],
+        [
+          "South America",
+          "#E56C2F"
+        ],
+        [
+          "North America",
+          "#DC2F24"
+        ]
+      ],
+      "key": "region",
+      "legendTitle": "region",
+      "menuItem": "region"
+    }
+  },
+  "defaults": {
+    "mapTriplicate": true
+  },
+  "filters": [
+    "country",
+    "region",
+    "authors"
+  ],
+  "geo": {
+    "country": {
+      "Austria": {
+        "latitude": 47.2000338,
+        "longitude": 13.199959
+      },
+      "Brazil": {
+        "latitude": -10.3333332,
+        "longitude": -53.1999999
+      },
+      "China": {
+        "latitude": 35.000074,
+        "longitude": 104.999927
+      },
+      "France": {
+        "latitude": 46.603354,
+        "longitude": 1.8883335
+      },
+      "Gambia": {
+        "latitude": 13.5,
+        "longitude": -15.5
+      },
+      "Germany": {
+        "latitude": 51.0834196,
+        "longitude": 10.4234469
+      },
+      "Ghana": {
+        "latitude": 8.0300284,
+        "longitude": -1.080027
+      },
+      "Italy": {
+        "latitude": 42.6384261,
+        "longitude": 12.674297
+      },
+      "Netherlands": {
+        "latitude": 52.3702,
+        "longitude": 4.8952
+      },
+      "Nigeria": {
+        "latitude": 10.0,
+        "longitude": 8.0
+      },
+      "Senegal": {
+        "latitude": 14.5,
+        "longitude": -14.25
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      }
+    },
+    "region": {
+      "Africa": {
+        "latitude": 4.070194,
+        "longitude": 21.824559
+      },
+      "Europe": {
+        "latitude": 49.646237,
+        "longitude": 10.799454
+      },
+      "North America": {
+        "latitude": 28.2367447,
+        "longitude": -97.738017
+      },
+      "South America": {
+        "latitude": -13.083583,
+        "longitude": -58.470721
+      }
+    }
+  },
+  "maintainer": [
+    "Wasco Wruck",
+    "https://www.uniklinik-duesseldorf.de/isrm"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ],
+  "title": "Analysis of SARS-CoV-2 virus evolution in West Africa",
+  "updated": "02 Jul 2020",
+  "virus_count": 73
+}
